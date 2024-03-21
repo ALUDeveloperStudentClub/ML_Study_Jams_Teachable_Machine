@@ -15,7 +15,7 @@
 
 - You can try to import your model into an Android App , explore more , don't limit yourself ! 
 
-- Share it the cool classification problems you have tried ,leave the question  or a comment as PR or issues to this repo . 
+- Share the cool classification problems you have tried ,leave a question  or a comment as PR or issues to this repo . 
 
 - Looking forward to the discusion! 
 
