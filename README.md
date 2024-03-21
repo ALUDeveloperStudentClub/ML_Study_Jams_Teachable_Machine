@@ -8,15 +8,14 @@
 
 2. Exporting your Model
    - Note you can export your model in different formarts
-In this activity we will use p5.js web interface
+   - In this activity we will use p5.js web interface
 
 ![image](https://github.com/ALUDeveloperStudentClub/ML_Study_Jams_Teachable_Machine/assets/90443938/6e935682-0bfa-4bfb-875b-87de63a743cc)
 
-**Note **
 
-You can try to import your model into an Android App , explore more , don't limit yourself ! 
+- You can try to import your model into an Android App , explore more , don't limit yourself ! 
 
-Share it the cool classification problems you have tried ,leave the question  or a comment as PR or issues to this repo . 
+- Share it the cool classification problems you have tried ,leave the question  or a comment as PR or issues to this repo . 
 
-Looking forward to the discusion! 
+- Looking forward to the discusion! 
 
