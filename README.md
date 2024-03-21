@@ -1,6 +1,6 @@
 # ML_Study_Jams_Teachable_Machine
 
-1. Checking confindece level
+1. Checking confidence level
 
 ![image](https://github.com/ALUDeveloperStudentClub/ML_Study_Jams_Teachable_Machine/assets/90443938/34bb758b-5f5c-438f-b56e-50e1820e8d91) 
 
