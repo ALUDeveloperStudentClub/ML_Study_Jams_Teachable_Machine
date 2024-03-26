@@ -1,4 +1,4 @@
-# ML_Study_Jams_Teachable_Machine
+# ML_Study_Jams_Teachable_Machine Activity
 
 1. Checking confidence level
 
