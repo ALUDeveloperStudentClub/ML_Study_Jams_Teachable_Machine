@@ -1,5 +1,7 @@
 # ML_Study_Jams_Teachable_Machine Activity
 
+![image](https://teachablemachine.withgoogle.com/) 
+
 1. Checking confidence level
 - Since this is a classification problem, you can incorporate different labels or fields to your training data
 - After the training process , processed to check the confindence level.
