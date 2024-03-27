@@ -9,6 +9,8 @@
 2. Exporting your Model
    - Note you can export your model in different formarts
    - In this activity we will use p5.js web interface
+   
+Here is the code on p5.js web editor: https://editor.p5js.org/WahomeKezia/sketches/NlMlRObdz  
 
 ![image](https://github.com/ALUDeveloperStudentClub/ML_Study_Jams_Teachable_Machine/assets/90443938/6e935682-0bfa-4bfb-875b-87de63a743cc)
 
